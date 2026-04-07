@@ -6,7 +6,7 @@
 
 **Duitkuu** adalah aplikasi mobile berbasis Flutter yang membantu Anda mengelola pengeluaran pribadi dengan mudah dan efisien. Dilengkapi dengan fitur **OCR (Optical Character Recognition)** untuk scan receipt otomatis dan **AI Gemini** untuk analisis pengeluaran cerdas, semuanya disimpan secara lokal di perangkat Anda.
 
-<img src="assets/demo.png" alt="Demo" width="300"/>
+<img src="demo/about.png" alt="Demo" width="300"/>
 
 ## Fitur Utama
 
