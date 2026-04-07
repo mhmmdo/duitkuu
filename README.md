@@ -140,7 +140,7 @@ Lihat `pubspec.yaml` untuk daftar lengkap dependencies.
 
 ## Laporan Bug & Fitur
 
-Punya saran atau menemukan bug? [Buat issue](https://github.com/yourusername/duitkuu/issues) di repository ini.
+Punya saran atau menemukan bug? [Buat issue](https://github.com/mhmmdo/duitkuu/issues) di repository ini.
 
 ## Kontribusi
 
@@ -164,8 +164,8 @@ Dibuat untuk memudahkan pengelolaan keuangan pribadi Anda.
 
 ## Hubungi Kami
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: [aplik003@gmail.com](mailto:aplik003@gmail.com)
+- GitHub: [@mhmmdo](https://github.com/mhmmdo)
 
 ---
 
