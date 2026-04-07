@@ -8,7 +8,7 @@
 
 <div style="display: flex; gap: 10px;">
   <img src="demo/dashboard.jpeg" width="300"/>
-  <img src="demo/about2.jpeg" width="300"/>
+  <img src="demo/about.jpeg" width="300"/>
 </div>
 
 ## Fitur Utama
